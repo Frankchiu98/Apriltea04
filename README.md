@@ -1,10 +1,13 @@
-# 愚人節快樂 🎉
+# 愚人節跳轉整人包 😎
 
-這是一個用來開愚人節玩笑的小網頁，打開會顯示祝賀訊息並跳出提示框。
+這是一個小小的惡作劇專案：
+
+- `index.html`：偽裝成「飲料訂購系統」，開啟後 5 秒自動跳轉
+- `prank.html`：真正的愚人節整人畫面，會跳出提示框
 
 ## 使用方式
 
-1. 將這個專案上傳到 GitHub
-2. 到「Settings → Pages」開啟 GitHub Pages
-3. 網址將會是 `https://你的帳號.github.io/你的 repo 名稱/`
-4. 此版本已移除 title 與 meta 描述，避免在 LINE 或其他社群出現預覽卡片文字。
+1. 將整包上傳至 GitHub Repo
+2. 設定 GitHub Pages 啟用 root 的 `index.html`
+3. 分享連結給朋友（例如：https://你的帳號.github.io/你的repo）
+4. 他們會先看到正常畫面，5 秒後被整 🎉
